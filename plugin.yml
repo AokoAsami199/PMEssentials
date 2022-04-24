@@ -1,0 +1,11 @@
+name: PMEssentials
+version: 1.0.0
+main: davidglitch04\PMEssentials\Essentials
+src-namespace-prefix: davidglitch04\PMEssentials
+api: 4.0.0
+author: DavidGlitch04
+website: github.com/david-pm-pl/PMEssentials
+description: PMEssentials is an essential plugin for PMMP servers, which includes many commands and loads of features for servers of any size!
+load: STARTUP
+extensions:
+  core: ">=8.0"
